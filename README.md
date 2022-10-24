@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Martí Carrasco</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on **Calculadora Geomètrica**
+- 🔭 I’m currently working on **Numeric methods for complex problems**
 
-- 🌱 I’m currently learning **Tkinter**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marticarrasco](https://github.com/marticarrasco)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, C++, Java**
 
 - 📫 How to reach me **marticarrasco2006@gmail.com**
 
-- ⚡ Fun fact **I enjoy solving issues.**
+- ⚡ Fun fact **Finding ways to solve a problem is one of my greatests hobbies.**
 
 
 <h3 align="left">Languages and Tools:</h3>
