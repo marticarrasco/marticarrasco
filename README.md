@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/marticarrasco](https://github.com/marticarrasco)
 
-- 💬 Ask me about **Python, C++, Java**
+- 💬 Ask me about **Python, Arduino, C++, Java**
 
 - 📫 How to reach me **marticarrasco2006@gmail.com**
 
