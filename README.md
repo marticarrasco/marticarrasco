@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martí Carrasco</h1>
 <h3 align="center">A passionate algorithm developer from Spain</h3>
 
-- 🔭 I’m currently working on **Numeric methods for complex problems**
+- 🔭 I’m currently working on **autonomous flight software for precision rocket control and real-time trajectory optimization**.
 
-- 🌱 I’m currently learning **C#, HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **R, C#**
 
-- 👯 I’m looking to collaborate on **ESP-32 IoT**
+- 👯 I’m looking to collaborate on **propulsion modeling and simulation for high-performance rocket engines**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/marticarrasco](https://github.com/marticarrasco)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **marticarrasco2006@gmail.com**
 
-- ⚡ Fun fact **Finding ways to solve a problem is one of my greatests hobbies**
+- ⚡ Fun fact **About 90% of the world’s currency exists in computers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
